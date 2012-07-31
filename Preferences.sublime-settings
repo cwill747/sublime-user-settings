@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/Color Scheme - Tomorrow/Tomorrow-Night.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"_build",
+		"dist",
+		"build",
+		"site"
+	],
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"rulers":
+	[
+		72,
+		79
+	],
+	"theme": "Soda Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
